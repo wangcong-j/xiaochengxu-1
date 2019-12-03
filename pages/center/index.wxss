@@ -1,0 +1,38 @@
+/* pages/center/index.wxss */
+form{
+  display: block;
+  padding: 15px;
+}
+.item{
+  font-size: 12px;
+display: flex;
+border-bottom: 1px solid rgb(235, 229, 229);
+margin: 10px 0;
+height: 35px;
+line-height: 35px
+}
+.item label{
+  width: 70px
+  }
+.item input{
+  flex:1;
+  height: 35px;
+  line-height: 35px;
+  text-align: right
+}
+.login{
+background-color: #FECA49;
+/* border-radius: 8px; */
+border: 0px solid #FECA49;
+color: #fff;
+margin: 10px;
+}
+.button{
+  height: 30px;
+  line-height: 30px;
+  font-size: 12px;
+  color: #FFFFFF;
+  background-color: #45B8FF;
+  margin-left: 5px;
+  border-radius: 35px;
+}

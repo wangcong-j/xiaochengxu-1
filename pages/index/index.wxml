@@ -1,0 +1,96 @@
+<swiper indicator-dots autoplay interval="2000" circular easing-function="easeInOutCubic">
+<swiper-item>
+<image src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2794834493,3182424185&fm=26&gp=0.jpg">
+</image>
+</swiper-item>
+<swiper-item>
+<image src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3965185087,1700134172&fm=26&gp=0.jpg"> </image>
+</swiper-item>
+<swiper-item>
+<image src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2105533331,320291204&fm=26&gp=0.jpg"> </image>
+</swiper-item>
+<swiper-item>
+<image src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2817229151,3579102929&fm=11&gp=0.jpg"> </image>
+</swiper-item>
+<swiper-item>
+<image src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3054892714,2353044458&fm=26&gp=0.jpg"> </image>
+</swiper-item>
+</swiper>
+
+<!-- 活动标题 -->
+<view class="title" >  乐园活动 </view>
+<!-- 第一个 -->
+<!-- 活动列表 -->
+<view class="item">
+    <navigator url=""> <!-- 相当于网页的a标签 用于跳转 -->
+    <image src="http://img5.imgtn.bdimg.com/it/u=434773540,3479855065&fm=26&gp=0.jpg" >  </image>
+    </navigator>
+    <!-- 活动信息 -->
+    <view class="info">
+      <view class="name"> 疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动 </view>
+    <view class="extra">
+    <!-- text 相当于网页中的 span 属于行内元素 -->
+      <text > 200人已报名 </text>
+      <text > 本周六开始  </text>
+    </view>
+    <!-- 状态 -->
+    <view class="status"> 免费 </view>
+    </view>
+</view>
+
+<!-- 第二个 -->
+<view class="item">
+  <!-- 活动列表 -->
+  <navigator url=""> <!-- 相当于网页的a标签 用于跳转 -->
+  <image src="http://img1.imgtn.bdimg.com/it/u=3163884388,1021674753&fm=26&gp=0.jpg" >  </image>
+  </navigator>
+  <!-- 活动信息 -->
+  <view class="info">
+  <view class="name"> 疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动 </view>
+  <view class="extra">
+  <!-- text 相当于网页中的 span 属于行内元素 -->
+    <text > 200人已报名 </text>
+    <text > 本周六开始  </text>
+  </view>
+  <!-- 状态 -->
+  <view class="status"> 免费 </view>
+  </view>
+</view>
+
+<!-- 第三个 -->
+<view class="item">
+  <!-- 活动列表 -->
+  <navigator url=""> <!-- 相当于网页的a标签 用于跳转 -->
+  <image src="http://img3.imgtn.bdimg.com/it/u=1736088394,2328095567&fm=26&gp=0.jpg" >  </image>
+  </navigator>
+  <!-- 活动信息 -->
+  <view class="info">
+  <view class="name"> 疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动 </view>
+  <view class="extra">
+  <!-- text 相当于网页中的 span 属于行内元素 -->
+    <text > 200人已报名 </text>
+    <text > 本周六开始  </text>
+  </view>
+  <!-- 状态 -->
+  <view class="status"> 免费 </view>
+  </view>
+</view>
+
+<!-- 第四个 -->
+<view class="item">
+  <!-- 活动列表 -->
+  <navigator url=""> <!-- 相当于网页的a标签 用于跳转 -->
+  <image src="http://img0.imgtn.bdimg.com/it/u=121054192,2485379792&fm=26&gp=0.jpg" >  </image>
+  </navigator>
+  <!-- 活动信息 -->
+  <view class="info">
+  <view class="name"> 疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动 </view>
+  <view class="extra">
+  <!-- text 相当于网页中的 span 属于行内元素 -->
+    <text > 200人已报名 </text>
+    <text > 本周六开始  </text>
+  </view>
+  <!-- 状态 -->
+  <view class="status"> 免费 </view>
+  </view>
+</view>
